@@ -1,0 +1,14 @@
+{
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/**": true,
+        "**/.hg/store/**": true,
+        "SPI_train/**": true,
+        "SPI_val/**": true,
+        "SPI_eval/**": true,
+        "env/**": true,
+        "*.pickle": true,
+    },
+    "python.pythonPath": "env/bin/python"
+}

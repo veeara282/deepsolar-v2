@@ -1,3 +1,8 @@
+# Training, validation, and test set directories
+SPI_eval
+SPI_train
+SPI_val
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
