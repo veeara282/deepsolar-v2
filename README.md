@@ -26,9 +26,10 @@ Reimplementation of DeepSolar using Keras and TensorFlow 2.x
     |- SPI_eval/
     |- [repository contents]
     ```
-4. Create a virtual environment (requires Python 3.x):
+4. Create a virtual environment and activate it (requires Python 3.x):
     ```
     python3 -m venv env
+    source env/bin/activate
     ```
 5. Install the requirements:
     ```
